@@ -1,0 +1,1500 @@
+{
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "list": [
+            {
+                "matchList": [
+                    {
+                        "id": "3183622007364763936",
+                        "team1": {
+                            "id": "3842780768498500192",
+                            "name": "Tottenham Hotspur",
+                            "score": "2",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/03/13/57b889253b5fbd5c206f23c4093ba10e.png",
+                            "voteCount": "10719",
+                            "type": "Football"
+                        },
+                        "team2": {
+                            "id": "2663963566033830152",
+                            "name": "Manchester United",
+                            "score": "2",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/03/13/63eba0d48bad5073adf9e89d659741ba.jpg",
+                            "voteCount": "33529",
+                            "type": "Football"
+                        },
+                        "status": "MatchEnded",
+                        "playType": "PlayTypeVideo",
+                        "playPath": "https://live-en.aisports.cc/moviebox/device01/playlist.m3u8",
+                        "startTime": "1762605000000",
+                        "endTime": "1762611932000",
+                        "type": "football",
+                        "timeDesc": "FT",
+                        "playSource": [
+                            {
+                                "title": "Channel 1",
+                                "path": "http://play.sportsteam368.com/play/wen.php?id=b224ccf5f552c52e50c75424ccdca7b0&id2=",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            },
+                            {
+                                "title": "Channel 2",
+                                "path": "http://play.sportsteam368.com/play/gm.php?id=959997701&id2=959997701",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            },
+                            {
+                                "title": "Channel 3",
+                                "path": "http://play.sportsteam368.com/play/kbs.html?id=959997701&id2=",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            }
+                        ],
+                        "statusLive": "_UnknownLiveStatus",
+                        "league": "Premier League",
+                        "liveDeviceId": "",
+                        "teamMatchInfo1": {
+                            "score": "2",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "teamMatchInfo2": {
+                            "score": "2",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "matchResult": "",
+                        "matchRound": "Premier League",
+                        "replay": [],
+                        "highlights": [],
+                        "extCountryCode": "",
+                        "score": 47,
+                        "liveType": "_UnLiveType",
+                        "liveRegion": "",
+                        "leagueId": "4663840386660596064",
+                        "isSub": false
+                    },
+                    {
+                        "id": "789958805417346144",
+                        "team1": {
+                            "id": "2433154085131092232",
+                            "name": "Everton",
+                            "score": "0",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/03/13/e941d9a061f6cfbb8cb0fa2da2d2205b.jpg",
+                            "voteCount": "59",
+                            "type": "Football"
+                        },
+                        "team2": {
+                            "id": "7275649584461218056",
+                            "name": "Fulham",
+                            "score": "0",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/03/13/fb2106282b9366f1bf2ef81dfc62977d.jpg",
+                            "voteCount": "64",
+                            "type": "Football"
+                        },
+                        "status": "MatchNotStart",
+                        "playType": "PlayTypeText",
+                        "playPath": "",
+                        "startTime": "1762614000000",
+                        "endTime": "0",
+                        "type": "football",
+                        "timeDesc": "",
+                        "playSource": [],
+                        "statusLive": "_UnknownLiveStatus",
+                        "league": "Premier League",
+                        "liveDeviceId": "",
+                        "teamMatchInfo1": {
+                            "score": "0",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "teamMatchInfo2": {
+                            "score": "0",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "matchResult": "",
+                        "matchRound": "Premier League",
+                        "replay": [],
+                        "highlights": [],
+                        "extCountryCode": "",
+                        "score": 0,
+                        "liveType": "_UnLiveType",
+                        "liveRegion": "",
+                        "leagueId": "4663840386660596064",
+                        "isSub": false
+                    },
+                    {
+                        "id": "4138385128367309088",
+                        "team1": {
+                            "id": "640721433437634824",
+                            "name": "West Ham United",
+                            "score": "0",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/03/13/88ccbcd25b9f2b9a290ea522b78d0409.jpg",
+                            "voteCount": "87",
+                            "type": "Football"
+                        },
+                        "team2": {
+                            "id": "1888592958488825736",
+                            "name": "Burnley",
+                            "score": "0",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/04/09/82751dd9b7baece34a1b56cf59329b43.jpg",
+                            "voteCount": "60",
+                            "type": "football"
+                        },
+                        "status": "MatchNotStart",
+                        "playType": "PlayTypeText",
+                        "playPath": "",
+                        "startTime": "1762614000000",
+                        "endTime": "0",
+                        "type": "football",
+                        "timeDesc": "",
+                        "playSource": [],
+                        "statusLive": "_UnknownLiveStatus",
+                        "league": "Premier League",
+                        "liveDeviceId": "",
+                        "teamMatchInfo1": {
+                            "score": "0",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "teamMatchInfo2": {
+                            "score": "0",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "matchResult": "",
+                        "matchRound": "Premier League",
+                        "replay": [],
+                        "highlights": [],
+                        "extCountryCode": "",
+                        "score": 0,
+                        "liveType": "_UnLiveType",
+                        "liveRegion": "",
+                        "leagueId": "4663840386660596064",
+                        "isSub": false
+                    }
+                ],
+                "league": "Premier League"
+            },
+            {
+                "matchList": [
+                    {
+                        "id": "6498789460784170888",
+                        "team1": {
+                            "id": "4254809326549979192",
+                            "name": "Sevilla",
+                            "score": "0",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/04/08/5f8cdaa20efa4e9c33ae66823a28e873.jpg",
+                            "voteCount": "66",
+                            "type": "football"
+                        },
+                        "team2": {
+                            "id": "4029629345181454216",
+                            "name": "Osasuna",
+                            "score": "0",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/04/08/450356f45727cb28e5265c9c53bc2991.jpg",
+                            "voteCount": "83",
+                            "type": "football"
+                        },
+                        "status": "MatchNotStart",
+                        "playType": "PlayTypeText",
+                        "playPath": "",
+                        "startTime": "1762614900000",
+                        "endTime": "0",
+                        "type": "football",
+                        "timeDesc": "",
+                        "playSource": [],
+                        "statusLive": "_UnknownLiveStatus",
+                        "league": "LaLiga",
+                        "liveDeviceId": "",
+                        "teamMatchInfo1": {
+                            "score": "0",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "teamMatchInfo2": {
+                            "score": "0",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "matchResult": "",
+                        "matchRound": "LaLiga",
+                        "replay": [],
+                        "highlights": [],
+                        "extCountryCode": "",
+                        "score": 37,
+                        "liveType": "_UnLiveType",
+                        "liveRegion": "",
+                        "leagueId": "8879209637879380320",
+                        "isSub": false
+                    },
+                    {
+                        "id": "8205653719557591424",
+                        "team1": {
+                            "id": "7766826444089426672",
+                            "name": "Girona",
+                            "score": "1",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/03/13/cc27b3b066faf3f4e275510176694dc9.jpg",
+                            "voteCount": "249",
+                            "type": "Football"
+                        },
+                        "team2": {
+                            "id": "2942010035171479432",
+                            "name": "Deportivo Alaves",
+                            "score": "1",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/04/08/63c22f7e788c7b560ea31b7cb7f85bc3.jpg",
+                            "voteCount": "212",
+                            "type": "football"
+                        },
+                        "status": "MatchIng",
+                        "playType": "PlayTypeVideo",
+                        "playPath": "https://live-en.aisports.cc/moviebox/bsy_021/playlist.m3u8",
+                        "startTime": "1762606800000",
+                        "endTime": "0",
+                        "type": "football",
+                        "timeDesc": "71'",
+                        "playSource": [
+                            {
+                                "title": "Channel 1",
+                                "path": "http://play.sportsteam368.com/play/pao.php?id=43584391&id2=",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            },
+                            {
+                                "title": "Channel 2",
+                                "path": "http://play.sportsteam368.com/play/kbs.html?id=960006289&id2=",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            },
+                            {
+                                "title": "Channel 3",
+                                "path": "http://play.sportsteam368.com/play/gm.php?id=960006289&id2=960006289",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            }
+                        ],
+                        "statusLive": "_UnknownLiveStatus",
+                        "league": "LaLiga",
+                        "liveDeviceId": "",
+                        "teamMatchInfo1": {
+                            "score": "1",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "teamMatchInfo2": {
+                            "score": "1",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "matchResult": "",
+                        "matchRound": "LaLiga",
+                        "replay": [],
+                        "highlights": [],
+                        "extCountryCode": "",
+                        "score": 0,
+                        "liveType": "_UnLiveType",
+                        "liveRegion": "",
+                        "leagueId": "8879209637879380320",
+                        "isSub": false
+                    },
+                    {
+                        "id": "8007495335953289600",
+                        "team1": {
+                            "id": "953239838373955464",
+                            "name": "Elche",
+                            "score": "1",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/07/02/f917dc33cbcd2dc4080c5d339b6013b1.jpg",
+                            "voteCount": "82",
+                            "type": "football"
+                        },
+                        "team2": {
+                            "id": "9120385773970378632",
+                            "name": "Real Sociedad",
+                            "score": "1",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/04/08/e729d99bc13e75f4af3411add7f50cff.jpg",
+                            "voteCount": "556",
+                            "type": "football"
+                        },
+                        "status": "MatchEnded",
+                        "playType": "PlayTypeText",
+                        "playPath": "https://live-en.aisports.cc/moviebox/bsy_013/playlist.m3u8",
+                        "startTime": "1762545600000",
+                        "endTime": "1762552522000",
+                        "type": "football",
+                        "timeDesc": "FT",
+                        "playSource": [
+                            {
+                                "title": "Channel 1",
+                                "path": "http://play.sportsteam368.com/play/pao.php?id=43584351&id2=",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            },
+                            {
+                                "title": "Channel 2",
+                                "path": "http://play.sportsteam368.com/play/kbs.html?id=959999066&id2=",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            },
+                            {
+                                "title": "Channel 3",
+                                "path": "http://play.sportsteam368.com/play/gm.php?id=959999066&id2=959999066",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            }
+                        ],
+                        "statusLive": "_UnknownLiveStatus",
+                        "league": "LaLiga",
+                        "liveDeviceId": "",
+                        "teamMatchInfo1": {
+                            "score": "1",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "teamMatchInfo2": {
+                            "score": "1",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "matchResult": "",
+                        "matchRound": "LaLiga",
+                        "replay": [
+                            {
+                                "title": "Full Match Replay (Hong Yuqing)",
+                                "path": "https://lacdn.aoneroom.com/replay/2025/11/08/2daa47398f0feab427aae572e578d32e.mp4?Expires=1763821784&Signature=pwqmrXoXpdAYo4end-GQlPMXcmKnFB3AMVAIurDKMzPPbaFIJZXsZmJa2x-6q8ef5vq~oOkaR8LKVNbVMf4Xg0eQbzuDu~d3746dD5l17~~5AQZ5y8LEEtFRKky42XH6PM53ao~ol6YmXBv~QJRQAdP8CfnJHozcUk39pUPR8EyBnSkHlHIwGIxO-UAVGZeqO2edZT4JuoufKjIbYGJWGB7Y~dYdHF9TPuquL1xS6d~OWuBQaMQU72g2YZ6rzZZngzJDofl2r5iKY1LhGeveWztr3JZ09inL6WlnLuBr6B6yPvfZhNK1X1uRf~9v99u8zf7nWS-iSO4kszv8iP8RAA__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                                "id": "5358093561256902920",
+                                "cover": {
+                                    "url": "https://pbcdn.aoneroom.com/image/2025/11/08/0c148e026b45a2caac901c31c297b6bf.jpg",
+                                    "id": "7583434727131431496"
+                                },
+                                "duration": "0",
+                                "createTime": "1762565947000",
+                                "stat": null
+                            }
+                        ],
+                        "highlights": [
+                            {
+                                "title": "Full Match Highlights",
+                                "path": "https://lacdn.aoneroom.com/highlight/2025/11/08/433e9073feb2661644501d4e51678bff.mp4?Expires=1763821784&Signature=i2UhqYVNvzAm73qWlUIMKTX16ND7n3G8llrGfZzIkozwjFdbJu51PYO~~QNqMGo4JavT4KqFu6vhvN45bRBTani2EjRYMX52q5HqIbO7MHXe42h6tazAW2IfzOyGPrjB5CLrtG0vr1HXQExsz~hAKBaX3n3~5C8bmowgoyUGeWwPUu9BaGhcfm2f0n6dPLA6NitK43nf2lsG8lPrFiP5aWOj06sh-jt7DjzUBMjPGCxAUBbJx11Z0MSV~GmrlY6sEJf0eVAZGdl0XGqgup3E9hQk8sYowx8o9I0JB32PdQBA3~fvF8BW7k2ujVocqzTVLlRg-2a5Zf-4eyFMzOb9VQ__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                                "id": "257025912422695176",
+                                "cover": {
+                                    "url": "https://pbcdn.aoneroom.com/image/2025/11/08/447aeb6b2b5f4ea9eae258d011328a89.jpg",
+                                    "id": "1432465415166394504"
+                                },
+                                "duration": "279",
+                                "createTime": "1762576657000",
+                                "stat": null
+                            },
+                            {
+                                "title": "[Highlights] Take a shot! Rafa's edge-of-the-box strike is too central and saved by the goalkeeper",
+                                "path": "https://lacdn.aoneroom.com/highlight/2025/11/08/97770163ba08542599d527b1e7d9e2e7.mp4?Expires=1763821784&Signature=aUpAjfY20MIUNf98TjTGb-SmSXuEFj5~PuXSnD5C8iHY7OVn9y1Nn6Jw38lO4FtLBL4hIISCOVZ05Z8d~mkc~M14gr2aaT6txJR2zMBqz3pnXjDHgdabmE-FGew-cdeC~74WxUuxNXGRVZul6Xb~HZrJCaDHof5EkXuvz6X~5UkGnThlUq0gTAl~dya3mXy3ivAAcK2ZrlvOyLVDBjtIEXfsJ8dOc12jJ5m~5-sk1acCyzcBs3HoWPqyyevZutzFlyN2rQizR3SZfvmp-hUKN5Cbkx6N86hicdAxBSkeidymxsL2RIODPmsUcZxuh~U0KhOp8x-LHglvDPgjJquSDg__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                                "id": "867441782815097096",
+                                "cover": {
+                                    "url": "https://pbcdn.aoneroom.com/image/2025/11/08/72f7e524749909bc6acccbe04d3afcac.jpg",
+                                    "id": "1040830368468847712"
+                                },
+                                "duration": "19",
+                                "createTime": "1762565852000",
+                                "stat": {
+                                    "bizType": "SBizTypeHighlights",
+                                    "entityId": "867441782815097096",
+                                    "viewCount": "2"
+                                }
+                            },
+                            {
+                                "title": "[Highlights] Incredible! Di Turo makes a quick diving save to deny Sadick's certain goal from close range",
+                                "path": "https://lacdn.aoneroom.com/highlight/2025/11/08/c38279ecb5697d80ad9264b06ebe72a6.mp4?Expires=1763821784&Signature=NWgvrMZPaXMP~2xn0ddk1JeAxZvmOtush9K1QQ5SGV57iytIrSM5B9ySwv~bkNAC-5L5Prhoq7FWhOPkzklyu6ZTk3YPrILChamGInbQaRAemlxByIV-sKXTXMOrSnBKHre4Ubcaa3vHRrIdIMVAV4H-cgCRwLLUAZEhI6GG1fWpna-XU4jDMRJbv-1XETuWfvFrRhA8DW-MvmUFulSf6S226g86SEdiCveVmGcJa4EGNHQHCrROjt-XJe4IWAWEgVeKT~B6Hdpb3PmM5x6aY-C6RjkKumwfdhj2FbrUBBQFq6FLmVs2x6MT5Yc~KFA9TJRtkZpxywz5Nco8wTluFQ__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                                "id": "2425498137885295096",
+                                "cover": {
+                                    "url": "https://pbcdn.aoneroom.com/image/2025/11/08/520355d27798db2c8c4491219c272045.jpg",
+                                    "id": "8054997672098513480"
+                                },
+                                "duration": "39",
+                                "createTime": "1762562254000",
+                                "stat": {
+                                    "bizType": "SBizTypeHighlights",
+                                    "entityId": "2425498137885295096",
+                                    "viewCount": "14"
+                                }
+                            },
+                            {
+                                "title": "[Highlights] A close call! Elche's backline clearance error nearly results in an own goal off a rebound",
+                                "path": "https://lacdn.aoneroom.com/highlight/2025/11/08/74c4f5737604991a59df91ecefa9687a.mp4?Expires=1763821784&Signature=vOcv1qBnmr1IdyxXvxMdGc6BQCw0xvnRBs-VLoZD3ggBAveGcE4NHnKsARsDjIeLj8qaVBzQl2g4ffi9bU7dqCrZPhtDbuN8NE6egdJGNs7w9abUQQFl-8XoMKH2QoNx7Zz5w9ikFO4wou5T7r0mWjtqo8PmPynGtRp76~H41XXQHdUqFHQRkAmR~iC6bXNUFhTzvFCAkheyJ1DIwivhRGYtHTB-PzVCJ1YdU1D8P-CpIV3KUlOeU4j210q1sO7QUFIbGl6~pXnaJwBZ3hycTn5VJJej6oc71e3ioVtgkv8oZE~1h0l-uukTXQfPPZP09XZGFPGk-J~mXvQBvU2Ltw__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                                "id": "3542579961473171720",
+                                "cover": {
+                                    "url": "https://pbcdn.aoneroom.com/image/2025/11/08/0c646d6227c79790c479bc6570eab86c.jpg",
+                                    "id": "3839817536879611064"
+                                },
+                                "duration": "45",
+                                "createTime": "1762565857000",
+                                "stat": {
+                                    "bizType": "SBizTypeHighlights",
+                                    "entityId": "3542579961473171720",
+                                    "viewCount": "2"
+                                }
+                            },
+                            {
+                                "title": "[Highlights] Intense attack and defense! Takefusa Kubo's shot saved, Elche's counter-attack hits the post",
+                                "path": "https://lacdn.aoneroom.com/highlight/2025/11/08/3649625e866019b5332e4cabc26e7389.mp4?Expires=1763821784&Signature=s8LordntL46lF7bvS6FWNTO6Z7SZneFSQxht2O6sUWTzQBm6WJZJH1tkUnIL5d~quaD5DyZs3mad20XqFnypccMPBoQWVVa8LpMY5G2xXoUnrT3kzzOwDt2dGNQSUu1DfG7zAX29WrPvqhqrqcm0K1D6P09iDUesKSAIy6wyEKHoJ~caiiwwGNNk4LH6d5PRfg3MZ9sFTO61FS-016hP8ecdNbv4yECUR-CodNXd2Fm9-DJbiJhgCAm7IncZp1FJyAHtWWFik4Jub1CrTZHWymPVDwVJ-kKtrl-ud7Ctklf2QhDDmn-s65yfpn16abcYkgTYFrProIMBx67P3~0guw__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                                "id": "3871153618271240456",
+                                "cover": {
+                                    "url": "https://pbcdn.aoneroom.com/image/2025/11/08/710e5a84ffdcf11c31a30e54d5456bba.jpg",
+                                    "id": "2898376098759213192"
+                                },
+                                "duration": "69",
+                                "createTime": "1762562265000",
+                                "stat": null
+                            },
+                            {
+                                "title": "[Highlights] Takefusa Kubo holds off defender, cross blocked; Mendes follows up with shot saved by goalkeeper",
+                                "path": "https://lacdn.aoneroom.com/highlight/2025/11/08/47712bc6aae977c2f541260326cf5da6.mp4?Expires=1763821784&Signature=lKplMmT65DiD5CGXhkwsK882zOzSfSHrKXLLnuHhyOQHuqCrvr5YSDyxcvZnJYORyqv7NZHuKgC3XlujsR4REKpnsG3o~eBltxeOVL1VsLGcYU9L74fRf8Mr4GP92SNYWPjQQG1RKYij87bm-tXO~o8Ngux-Pi6uSKBkPlc12A8nY4eYSwa63EZx9J9VAWRglOXZFCH9Sr61UgPkn1wJOPk893nTwhYgSd6QAXcPcp-5PgGX03wxAIwDSCnnLNFevjmMp8VzZOGFQMZFNyuI~ypACkk-DJRsOyuCinL~tdul5p29XnJClUBh6B04TUJ2p2P3BU6MvCyQ~iP~YvpE3g__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                                "id": "4310443697939825144",
+                                "cover": {
+                                    "url": "https://pbcdn.aoneroom.com/image/2025/11/08/05e9193fcb37b0ca50801860492e6453.jpg",
+                                    "id": "2418931854444320016"
+                                },
+                                "duration": "43",
+                                "createTime": "1762565846000",
+                                "stat": {
+                                    "bizType": "SBizTypeHighlights",
+                                    "entityId": "4310443697939825144",
+                                    "viewCount": "3"
+                                }
+                            },
+                            {
+                                "title": "[Goal] Breaks the deadlock! Rodriguez calmly flicks home after receiving the ball at the far post",
+                                "path": "https://lacdn.aoneroom.com/highlight/2025/11/07/015e85e07df4f3cd4bb22612445bc07b.mp4?Expires=1763821784&Signature=DTFxOerZu-ItLHR3TAuf7LKKhqldtTW7La3GiEUB8uvky6VyUozIT~KV707Ed8vGU2TyhcGYE33sW383QHA-KZMtcVfdeWOdmrsNOjyAc0Qt1HzsUVMZyDal-hzuwLQmTn-JhyFuXIuA5zb7NewGyvKaNl235hKOvYCI1D-J4newYPYSUdcVpvLUP97eTf5s3e2yYfAtv3do3gP3xlFme82UCZ6srhoZ82DEfi3lIGP8wgzqf~BY3Nw4KttPxfN07OK2XTCXReKd154PGPOqFGGQ8~9zd921x3way9yHpFeaKdwaXil-PL~3mjjMVrSbeQJHWqaYuvPaK5vb6BIQqQ__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                                "id": "4445177852807512328",
+                                "cover": {
+                                    "url": "https://pbcdn.aoneroom.com/image/2025/11/07/cfbdf1755d375fae18f3b5d30f104082.jpg",
+                                    "id": "6543855279162163336"
+                                },
+                                "duration": "77",
+                                "createTime": "1762558804000",
+                                "stat": {
+                                    "bizType": "SBizTypeHighlights",
+                                    "entityId": "4445177852807512328",
+                                    "viewCount": "5"
+                                }
+                            },
+                            {
+                                "title": "[Goal] Sadiq fouled in the box to win a penalty, Oyarzabal converts from the spot",
+                                "path": "https://lacdn.aoneroom.com/highlight/2025/11/08/24aa278e5029b79e7b88749dfd7b3545.mp4?Expires=1763821784&Signature=eKBOonwNwe0HVlIkwyP87LgugUKJoc0MD06gYIZeM9QfxR9WE8TkSmCU7ycoiMXtxHkviJhOBJQOmGQkUptQct4Z5e4GXElQxwt6fjrCHTdDbiKzfXnVOgQuQjY9wFGdQk0DqXGPGKC8qC4Pc16HtNq~B4HHzYWoyilPfTQqTBKtQ1KljPACqwB9ZFP2Bg9hH7IMVr0pXdIzAygoijjlMN0O2Hh~i0LL93ra7vNaRwqUStq-dZelVWcnNxGWMLquXn~j0Xjaf2cBRu-ISyjRiD8vccb31A-iTTZ8dPJOOSQGpwC0on90BLTeJq90o2XBLpVM-uxrjdvrY2fVtq8kdA__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                                "id": "5550996279280435464",
+                                "cover": {
+                                    "url": "https://pbcdn.aoneroom.com/image/2025/11/08/5b7116ff9c6c40924b05ffff8c7e9bc0.jpg",
+                                    "id": "770425274826640480"
+                                },
+                                "duration": "141",
+                                "createTime": "1762562248000",
+                                "stat": {
+                                    "bizType": "SBizTypeHighlights",
+                                    "entityId": "5550996279280435464",
+                                    "viewCount": "11"
+                                }
+                            }
+                        ],
+                        "extCountryCode": "",
+                        "score": 0,
+                        "liveType": "_UnLiveType",
+                        "liveRegion": "",
+                        "leagueId": "8879209637879380320",
+                        "isSub": false
+                    }
+                ],
+                "league": "LaLiga"
+            },
+            {
+                "matchList": [
+                    {
+                        "id": "2230502209569149008",
+                        "team1": {
+                            "id": "967744548522938424",
+                            "name": "Lecce",
+                            "score": "0",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/04/08/31ff2dc58a0e2e7bc50c67ddf265ddc8.jpg",
+                            "voteCount": "40",
+                            "type": "football"
+                        },
+                        "team2": {
+                            "id": "3938994402680623160",
+                            "name": "Hellas Verona",
+                            "score": "0",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/04/08/bb10a751f09abfea3e43d45266cf5ebf.jpg",
+                            "voteCount": "51",
+                            "type": "football"
+                        },
+                        "status": "MatchIng",
+                        "playType": "PlayTypeVideo",
+                        "playPath": "https://live-en.aisports.cc/moviebox/bsy_013/playlist.m3u8",
+                        "startTime": "1762610400000",
+                        "endTime": "0",
+                        "type": "football",
+                        "timeDesc": "27'",
+                        "playSource": [
+                            {
+                                "title": "Channel 1",
+                                "path": "http://play.sportsteam368.com/play/pao.php?id=43395661&id2=",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            },
+                            {
+                                "title": "Channel 2",
+                                "path": "http://play.sportsteam368.com/play/kbs.html?id=959999093&id2=",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            },
+                            {
+                                "title": "Channel 3",
+                                "path": "http://play.sportsteam368.com/play/gm.php?id=959999093&id2=959999093",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            }
+                        ],
+                        "statusLive": "_UnknownLiveStatus",
+                        "league": "Serie A",
+                        "liveDeviceId": "",
+                        "teamMatchInfo1": {
+                            "score": "0",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "teamMatchInfo2": {
+                            "score": "0",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "matchResult": "",
+                        "matchRound": "Serie A",
+                        "replay": [],
+                        "highlights": [],
+                        "extCountryCode": "",
+                        "score": 0,
+                        "liveType": "_UnLiveType",
+                        "liveRegion": "",
+                        "leagueId": "4807955574736451936",
+                        "isSub": false
+                    },
+                    {
+                        "id": "1248717490802380880",
+                        "team1": {
+                            "id": "4044547518947643448",
+                            "name": "Como 1907",
+                            "score": "0",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/04/08/c7fe04a71ae432f2ff44dc765738118d.jpg",
+                            "voteCount": "618",
+                            "type": "football"
+                        },
+                        "team2": {
+                            "id": "214517510845222968",
+                            "name": "Cagliari",
+                            "score": "1",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/04/08/69253aa633753e99d86c051a6cf2e5c3.jpg",
+                            "voteCount": "107",
+                            "type": "football"
+                        },
+                        "status": "MatchIng",
+                        "playType": "PlayTypeVideo",
+                        "playPath": "https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8",
+                        "startTime": "1762610400000",
+                        "endTime": "0",
+                        "type": "football",
+                        "timeDesc": "27'",
+                        "playSource": [
+                            {
+                                "title": "Channel 1",
+                                "path": "http://play.sportsteam368.com/play/pao.php?id=43395621&id2=",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            },
+                            {
+                                "title": "Channel 2",
+                                "path": "http://play.sportsteam368.com/play/kbs.html?id=959999055&id2=",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            },
+                            {
+                                "title": "Channel 3",
+                                "path": "http://play.sportsteam368.com/play/gm.php?id=959999055&id2=959999055",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            }
+                        ],
+                        "statusLive": "_UnknownLiveStatus",
+                        "league": "Serie A",
+                        "liveDeviceId": "",
+                        "teamMatchInfo1": {
+                            "score": "0",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "teamMatchInfo2": {
+                            "score": "1",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "matchResult": "",
+                        "matchRound": "Serie A",
+                        "replay": [],
+                        "highlights": [],
+                        "extCountryCode": "",
+                        "score": 0,
+                        "liveType": "_UnLiveType",
+                        "liveRegion": "",
+                        "leagueId": "4807955574736451936",
+                        "isSub": false
+                    },
+                    {
+                        "id": "4579129415242859984",
+                        "team1": {
+                            "id": "2128397161766831568",
+                            "name": "Pisa",
+                            "score": "1",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/06/07/37cb8cb7e3f34262c9504c9f243e2afc.jpg",
+                            "voteCount": "169",
+                            "type": "football"
+                        },
+                        "team2": {
+                            "id": "3887052816255012944",
+                            "name": "Cremonese",
+                            "score": "0",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/06/07/78352a4810b9fba96f24fd74e8b15596.jpg",
+                            "voteCount": "253",
+                            "type": "football"
+                        },
+                        "status": "MatchEnded",
+                        "playType": "PlayTypeText",
+                        "playPath": "",
+                        "startTime": "1762544700000",
+                        "endTime": "1762551419000",
+                        "type": "football",
+                        "timeDesc": "FT",
+                        "playSource": [],
+                        "statusLive": "_UnknownLiveStatus",
+                        "league": "Serie A",
+                        "liveDeviceId": "",
+                        "teamMatchInfo1": {
+                            "score": "1",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "teamMatchInfo2": {
+                            "score": "0",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "matchResult": "",
+                        "matchRound": "Serie A",
+                        "replay": [
+                            {
+                                "title": "Full Match Replay (Zhang Haoze)",
+                                "path": "https://lacdn.aoneroom.com/replay/2025/11/08/5699e9a0b9627dfd3bd7af6784596043.mp4?Expires=1763821786&Signature=GUbiTaRFcpjLAHTAuOiy3IlahAt7WTSWzE8Psl797cZgKpkT3dAKdn-oo4sCwg1n4Z2Xs-iJ9dPJhz-mat9dbPb9yFHYogj2dgEozuubbku6I8cgcK~GmzFppczaMJCE1aWaXBKDfqA-fz-vYPsiH6Darn0hjYSrgxoBLmVJRDM9bhgX51qgBn-jeu4RPJdPy1DmpAPNe2gIAe7-xY3bgX4s6Cx7cO3S2OQTApOiv1rgyUbmhgeJiX4lpI7O6w36c8uxi9hQzm0Dqgpko-7hLGFg~N0vANwHw~CWxr6YdFwFDfWH3MVWGFDMcP24Mp2odTAR95wyOCgb7UovHuNgCA__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                                "id": "1651587087465873672",
+                                "cover": {
+                                    "url": "https://pbcdn.aoneroom.com/image/2025/11/08/eaaa91b5e697f8eb1b3a7070a960ffe7.jpg",
+                                    "id": "6241318057709816928"
+                                },
+                                "duration": "0",
+                                "createTime": "1762573152000",
+                                "stat": null
+                            }
+                        ],
+                        "highlights": [
+                            {
+                                "title": "[Highlights] Poor form! Vázquez's wild shot from a chaotic penalty area drifts wide",
+                                "path": "https://lacdn.aoneroom.com/highlight/2025/11/08/505e80471e83fde18c581cbe3cf34043.mp4?Expires=1763821786&Signature=51nlWv4L3n-Tfv7NjzHJgkgx-juEhQgQSGJRgttJIS9jirBFmd-zCMuKWRYgmqRxNUsfsJuiOmwMeXZdYVifeeL4X47rkVDuMc0kDYtAjZrVie3972BHvWdoAudbr3Sxf-VR8ftoqlMx36wEYaqwcKEwVZ8lm8QxOAetU~4XEcJ1iGs8OQ73~3LQcT--bfhYG~VX75Mjzb-TS2T7SR67~0TpU7fdtCz8mxHAPOWLE5yINvQycNt5g9Eh8H3jyjL7K0L64b6sMH3kexOsPNErLSeuS7hVgQJnbL0E5b-0AWyzGmAoIXJ2ktxPSbX8eXZygXw6VYGXma9z3G5Q8GtE6Q__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                                "id": "1101584982973251848",
+                                "cover": {
+                                    "url": "https://pbcdn.aoneroom.com/image/2025/11/08/0280de252655201554040d417ab89bed.jpg",
+                                    "id": "326965847065612584"
+                                },
+                                "duration": "18",
+                                "createTime": "1762573064000",
+                                "stat": null
+                            },
+                            {
+                                "title": "Full Match Highlights",
+                                "path": "https://lacdn.aoneroom.com/highlight/2025/11/08/19d46f8021cebfc697b481a48f6efa4b.mp4?Expires=1763821786&Signature=mTKyjwMD92MNXjtL8KKODF6V~1DCif5QUJrREjk4wvBLbfvgAYwQNXZlCvnnl~iFpgXXdw1CinVFiuMkA1XTSJR0shq9T7jyZ4nExoq5WU5-o4ciGkmWyVpBn7ouWRZcJ2kZo1QpomnKqbcPNkePUILyZN0gGHLN2m1MXxkillemZg6EAv3yE0LLeRMndRY38Qer6wnucQxCJcRTpmZT-GJflUtColHkEYPBRyiZR1qYtBl0yghV~GOlqjDsVENQPvwBweUfycvXY6WZYrhj67DAxzWb2Ir3XWT620rE~Uce511pLmA7DZ0GV~iShZ0QN-YFJ2mJ0d5xCtRPujIYkA__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                                "id": "1840041181443408376",
+                                "cover": {
+                                    "url": "https://pbcdn.aoneroom.com/image/2025/11/08/5ae84b3bb95d51307d37766e15a8ad92.jpg",
+                                    "id": "290802909627960504"
+                                },
+                                "duration": "304",
+                                "createTime": "1762576667000",
+                                "stat": null
+                            },
+                            {
+                                "title": "[Highlights] Dangerous! Caracciolo heads the cross straight at the keeper, saved",
+                                "path": "https://lacdn.aoneroom.com/highlight/2025/11/08/2ddee4373862bb7cd85bdfe90a558899.mp4?Expires=1763821786&Signature=Kn9b11oxb-j19GSWQbqO4m59ZyTBlP8w6i37vdQeU4P2L0Om0QDdeMu0KRRQqhVaWNgUw7Xyi6n1dX66JoHAQQ80wLmwsQz4kegok2yxBlZgvn30-VLvs3JnBUY5GvMTo~58878t4No2gKJXiRBV0wcTlt9wt3S5HY1fd9XpahXoTYnIfGhYrnpZcCxIFBjiUh0lpNSRtlO4VE52zEH0p7-IPaNNHElZJ6IuGHlfTp4Zp3Mch0qgNWF3-Li3XES~EcilKrnRoo-L4bxDJL-FoltmQ-s1~wLW1g7VcVSMR3poSwwy~DIvZGotzInaE5hpfTbanegKnXp4YI4lv~q~eQ__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                                "id": "4103234134615687432",
+                                "cover": {
+                                    "url": "https://pbcdn.aoneroom.com/image/2025/11/08/6f8dd37790ce7dbdf9a295595a93c4e1.jpg",
+                                    "id": "5706515601959570616"
+                                },
+                                "duration": "22",
+                                "createTime": "1762573059000",
+                                "stat": null
+                            },
+                            {
+                                "title": "[Goal] Breaks the deadlock! Tramoni crosses, Toure surges forward to head home",
+                                "path": "https://lacdn.aoneroom.com/highlight/2025/11/08/f7fdb4f62f1b6d874d260597b026d323.mp4?Expires=1763821786&Signature=56Cfnm7Ajg1tjJFL6ZvZPz6EH84wluRUX28lzzNAoRjCfLXabIoe9HmBGiczLMPK95F3ZuulKo6cF1ep5ll~BFk6kuCA6wZUIO5mTky1toN~lsORlj-ZZtyWDU8Sh62LE2GdvkbUvQaJJJKhFo~DLWsz6BeCasY75msPV2DCefjSYHzKF1I5KqEWV~UwyMhM0uzvx2OLIC~FyDjRVY2iV2IXMo~i0-YfzK3763EaTBDslScXIy~W6z3EXa-Lyv7W~stDPanMWIwIOMxKQpwjPVg7eRCjiRx5qLMHtO2CeYjCTeHSJg5lJPtg0q7nQacdAzRAwyzTzj5~B9dodX9VyA__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                                "id": "6242443957616673032",
+                                "cover": {
+                                    "url": "https://pbcdn.aoneroom.com/image/2025/11/08/17e2a44c29f15340c7d2847a6f1892e5.jpg",
+                                    "id": "522872430856225352"
+                                },
+                                "duration": "101",
+                                "createTime": "1762573047000",
+                                "stat": null
+                            },
+                            {
+                                "title": "[Highlights] Cremonese midfielder's error leads to Enzola's one-on-one goal, ruled offside",
+                                "path": "https://lacdn.aoneroom.com/highlight/2025/11/08/e03c648ce105306da5455007970b7bbd.mp4?Expires=1763821786&Signature=R3ZbJO7lDyHwEYnrvIg2BuJBNLTcxiAytKmsYVYFX3EOe1yAb07PtBHEdZm-dTVqJanJr9woG0JDB6Ot-WiTkYQxTq~jAnEnH4HBHlZHiCDrh9qEf-UCnp2CX~Sf8EOvQZaAnHWHVhnxn7~UsRalhB38xEc1KTg9lMmwtrp64HmTVn2jLJF-QX7uEPjzUIdSQhMhY4yARaLJEa5~e--qD6Ncc8NYMjRpu6sX9l3J8mysR2IbtiHKcSaABmZSfEzI0mLRaBBYJtconWa4y1DsEGkuGITSMETfAe1gSFP7CM~OwENRDeDcLo0kzeh-OK5rzLKrbtjD45krx7R7RUxW1A__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                                "id": "8525768968693498360",
+                                "cover": {
+                                    "url": "https://pbcdn.aoneroom.com/image/2025/11/08/9733297410a8f131f366468972a5c8bd.jpg",
+                                    "id": "2526974265036000352"
+                                },
+                                "duration": "46",
+                                "createTime": "1762573053000",
+                                "stat": null
+                            }
+                        ],
+                        "extCountryCode": "",
+                        "score": 0,
+                        "liveType": "_UnLiveType",
+                        "liveRegion": "",
+                        "leagueId": "4807955574736451936",
+                        "isSub": false
+                    }
+                ],
+                "league": "Serie A"
+            },
+            {
+                "matchList": [
+                    {
+                        "id": "170787300594579928",
+                        "team1": {
+                            "id": "3532544536310435720",
+                            "name": "Union Berlin",
+                            "score": "0",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/04/08/02d39eec754946e781a2ac2d0eb2941e.jpg",
+                            "voteCount": "26",
+                            "type": "football"
+                        },
+                        "team2": {
+                            "id": "5584832424627897208",
+                            "name": "Bayern Munich",
+                            "score": "0",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/03/13/ffa1d99413b724f13576e532e9e3de02.jpg",
+                            "voteCount": "556",
+                            "type": "Football"
+                        },
+                        "status": "MatchNotStart",
+                        "playType": "PlayTypeText",
+                        "playPath": "https://live-en.aisports.cc/moviebox/bsy_026/playlist.m3u8",
+                        "startTime": "1762612200000",
+                        "endTime": "0",
+                        "type": "football",
+                        "timeDesc": "",
+                        "playSource": [
+                            {
+                                "title": "Channel 1",
+                                "path": "http://play.sportsteam368.com/play/kbs.html?id=960006538&id2=",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            },
+                            {
+                                "title": "Channel 2",
+                                "path": "http://play.sportsteam368.com/play/gm.php?id=960006538&id2=960006538",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            },
+                            {
+                                "title": "Channel 3",
+                                "path": "http://play.sportsteam368.com/play/pao.php?id=43474441&id2=",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            }
+                        ],
+                        "statusLive": "_UnknownLiveStatus",
+                        "league": "Bundesliga",
+                        "liveDeviceId": "",
+                        "teamMatchInfo1": {
+                            "score": "0",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "teamMatchInfo2": {
+                            "score": "0",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "matchResult": "",
+                        "matchRound": "Bundesliga",
+                        "replay": [],
+                        "highlights": [],
+                        "extCountryCode": "",
+                        "score": 47,
+                        "liveType": "_UnLiveType",
+                        "liveRegion": "",
+                        "leagueId": "2628213355089131872",
+                        "isSub": false
+                    },
+                    {
+                        "id": "5773265237043476952",
+                        "team1": {
+                            "id": "4557856287606428032",
+                            "name": "Hamburger SV",
+                            "score": "0",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/06/27/451a44721388d42e34dc3d1598561f71.jpg",
+                            "voteCount": "14",
+                            "type": "football"
+                        },
+                        "team2": {
+                            "id": "9183208526897447800",
+                            "name": "Borussia Dortmund",
+                            "score": "0",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/03/13/bae296c73e03725497d59d958ae94b15.jpg",
+                            "voteCount": "60",
+                            "type": "Football"
+                        },
+                        "status": "MatchNotStart",
+                        "playType": "PlayTypeVideo",
+                        "playPath": "https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8",
+                        "startTime": "1762612200000",
+                        "endTime": "0",
+                        "type": "football",
+                        "timeDesc": "",
+                        "playSource": [
+                            {
+                                "title": "Channel 1",
+                                "path": "http://play.sportsteam368.com/play/gm.php?id=960006466&id2=960006466",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            },
+                            {
+                                "title": "Channel 2",
+                                "path": "http://play.sportsteam368.com/play/kbs.html?id=960006466&id2=",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            },
+                            {
+                                "title": "Channel 3",
+                                "path": "http://play.sportsteam368.com/play/pao.php?id=43474411&id2=",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            }
+                        ],
+                        "statusLive": "_UnknownLiveStatus",
+                        "league": "Bundesliga",
+                        "liveDeviceId": "",
+                        "teamMatchInfo1": {
+                            "score": "0",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "teamMatchInfo2": {
+                            "score": "0",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "matchResult": "",
+                        "matchRound": "Bundesliga",
+                        "replay": [],
+                        "highlights": [],
+                        "extCountryCode": "",
+                        "score": 42,
+                        "liveType": "_UnLiveType",
+                        "liveRegion": "",
+                        "leagueId": "2628213355089131872",
+                        "isSub": false
+                    },
+                    {
+                        "id": "8200705436196174296",
+                        "team1": {
+                            "id": "2961485641685107576",
+                            "name": "Bayer Leverkusen",
+                            "score": "0",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/03/13/a3ae8d964e8106869b5ed4356eceab95.jpg",
+                            "voteCount": "12",
+                            "type": "Football"
+                        },
+                        "team2": {
+                            "id": "5172699225603428408",
+                            "name": "FC Heidenheim",
+                            "score": "0",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/04/08/e6e10de4052adb61ab820f224d42e638.jpg",
+                            "voteCount": "5",
+                            "type": "football"
+                        },
+                        "status": "MatchNotStart",
+                        "playType": "PlayTypeVideo",
+                        "playPath": "https://live-en.aisports.cc/moviebox/bsy_025/playlist.m3u8",
+                        "startTime": "1762612200000",
+                        "endTime": "0",
+                        "type": "football",
+                        "timeDesc": "",
+                        "playSource": [
+                            {
+                                "title": "Channel 1",
+                                "path": "http://play.sportsteam368.com/play/pao.php?id=43474371&id2=",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            },
+                            {
+                                "title": "Channel 2",
+                                "path": "http://play.sportsteam368.com/play/gm.php?id=960006462&id2=960006462",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            },
+                            {
+                                "title": "Channel 3",
+                                "path": "http://play.sportsteam368.com/play/kbs.html?id=960006462&id2=",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            }
+                        ],
+                        "statusLive": "_UnknownLiveStatus",
+                        "league": "Bundesliga",
+                        "liveDeviceId": "",
+                        "teamMatchInfo1": {
+                            "score": "0",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "teamMatchInfo2": {
+                            "score": "0",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "matchResult": "",
+                        "matchRound": "Bundesliga",
+                        "replay": [],
+                        "highlights": [],
+                        "extCountryCode": "",
+                        "score": 40,
+                        "liveType": "_UnLiveType",
+                        "liveRegion": "",
+                        "leagueId": "2628213355089131872",
+                        "isSub": false
+                    },
+                    {
+                        "id": "7538676290972711384",
+                        "team1": {
+                            "id": "8460608428560601144",
+                            "name": "Hoffenheim",
+                            "score": "0",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/04/08/4fd9da788dc76c50e8205eb78a7027f6.jpg",
+                            "voteCount": "5",
+                            "type": "football"
+                        },
+                        "team2": {
+                            "id": "4177457541074617072",
+                            "name": "RB Leipzig",
+                            "score": "0",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/03/13/e1eefe095169757ee1c1ba9643aa6b41.jpg",
+                            "voteCount": "18",
+                            "type": "Football"
+                        },
+                        "status": "MatchNotStart",
+                        "playType": "PlayTypeText",
+                        "playPath": "https://live-en.aisports.cc/moviebox/bsy_006/playlist.m3u8",
+                        "startTime": "1762612200000",
+                        "endTime": "0",
+                        "type": "football",
+                        "timeDesc": "",
+                        "playSource": [
+                            {
+                                "title": "Channel 1",
+                                "path": "http://play.sportsteam368.com/play/gm.php?id=960006523&id2=960006523",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            },
+                            {
+                                "title": "Channel 2",
+                                "path": "http://play.sportsteam368.com/play/pao.php?id=43474421&id2=",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            },
+                            {
+                                "title": "Channel 3",
+                                "path": "http://play.sportsteam368.com/play/kbs.html?id=960006523&id2=",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            }
+                        ],
+                        "statusLive": "_UnknownLiveStatus",
+                        "league": "Bundesliga",
+                        "liveDeviceId": "",
+                        "teamMatchInfo1": {
+                            "score": "0",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "teamMatchInfo2": {
+                            "score": "0",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "matchResult": "",
+                        "matchRound": "Bundesliga",
+                        "replay": [],
+                        "highlights": [],
+                        "extCountryCode": "",
+                        "score": 40,
+                        "liveType": "_UnLiveType",
+                        "liveRegion": "",
+                        "leagueId": "2628213355089131872",
+                        "isSub": false
+                    },
+                    {
+                        "id": "7007251534941944280",
+                        "team1": {
+                            "id": "2000194763097624456",
+                            "name": "Werder Bremen",
+                            "score": "2",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/04/08/be85d2bfd0f4866692417588084e15a2.jpg",
+                            "voteCount": "336",
+                            "type": "football"
+                        },
+                        "team2": {
+                            "id": "4224691504041938824",
+                            "name": "Wolfsburg",
+                            "score": "1",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/04/08/f6234c7965d02ea43b7a6f8f9fbe10a3.jpg",
+                            "voteCount": "918",
+                            "type": "football"
+                        },
+                        "status": "MatchEnded",
+                        "playType": "PlayTypeText",
+                        "playPath": "https://live-en.aisports.cc/moviebox/bsy_026/playlist.m3u8",
+                        "startTime": "1762543800000",
+                        "endTime": "1762550798000",
+                        "type": "football",
+                        "timeDesc": "FT",
+                        "playSource": [
+                            {
+                                "title": "Channel 1",
+                                "path": "http://play.sportsteam368.com/play/kbs.html?id=960006450&id2=",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            },
+                            {
+                                "title": "Channel 2",
+                                "path": "http://play.sportsteam368.com/play/gm.php?id=960006450&id2=960006450",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            },
+                            {
+                                "title": "Channel 3",
+                                "path": "http://play.sportsteam368.com/play/pao.php?id=43474451&id2=",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            }
+                        ],
+                        "statusLive": "_UnknownLiveStatus",
+                        "league": "Bundesliga",
+                        "liveDeviceId": "",
+                        "teamMatchInfo1": {
+                            "score": "2",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "teamMatchInfo2": {
+                            "score": "1",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "matchResult": "",
+                        "matchRound": "Bundesliga",
+                        "replay": [],
+                        "highlights": [],
+                        "extCountryCode": "",
+                        "score": 0,
+                        "liveType": "_UnLiveType",
+                        "liveRegion": "",
+                        "leagueId": "2628213355089131872",
+                        "isSub": false
+                    }
+                ],
+                "league": "Bundesliga"
+            },
+            {
+                "matchList": [
+                    {
+                        "id": "3385812626525551064",
+                        "team1": {
+                            "id": "6334909404442251320",
+                            "name": "Marseille",
+                            "score": "0",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/04/08/9e1d809547b78f610f9995f0a8a51768.jpg",
+                            "voteCount": "24",
+                            "type": "football"
+                        },
+                        "team2": {
+                            "id": "6882995017217442680",
+                            "name": "Brest",
+                            "score": "0",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/03/13/b1d7b22ec707d46123f38a24b2c9de83.jpg",
+                            "voteCount": "7",
+                            "type": "Football"
+                        },
+                        "status": "MatchNotStart",
+                        "playType": "PlayTypeText",
+                        "playPath": "",
+                        "startTime": "1762617600000",
+                        "endTime": "0",
+                        "type": "football",
+                        "timeDesc": "",
+                        "playSource": [],
+                        "statusLive": "_UnknownLiveStatus",
+                        "league": "Ligue 1",
+                        "liveDeviceId": "",
+                        "teamMatchInfo1": {
+                            "score": "0",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "teamMatchInfo2": {
+                            "score": "0",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "matchResult": "",
+                        "matchRound": "Ligue 1",
+                        "replay": [],
+                        "highlights": [],
+                        "extCountryCode": "",
+                        "score": 40,
+                        "liveType": "_UnLiveType",
+                        "liveRegion": "",
+                        "leagueId": "2249910986390010208",
+                        "isSub": false
+                    },
+                    {
+                        "id": "6017603658770184664",
+                        "team1": {
+                            "id": "3697594425779146632",
+                            "name": "Paris FC",
+                            "score": "0",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/04/08/6cfc86c3cacecb6ef7dd9dfa3855fccd.jpg",
+                            "voteCount": "992",
+                            "type": "football"
+                        },
+                        "team2": {
+                            "id": "57735948817387576",
+                            "name": "Rennes",
+                            "score": "1",
+                            "avatar": "https://pacdn.aoneroom.com/image/2025/04/08/6f88cde522f363ff4d50cdbffd3bb9f5.jpg",
+                            "voteCount": "166",
+                            "type": "football"
+                        },
+                        "status": "MatchEnded",
+                        "playType": "PlayTypeText",
+                        "playPath": "https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8",
+                        "startTime": "1762544700000",
+                        "endTime": "1762551429000",
+                        "type": "football",
+                        "timeDesc": "FT",
+                        "playSource": [
+                            {
+                                "title": "Channel 1",
+                                "path": "http://play.sportsteam368.com/play/pao.php?id=43477831&id2=",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            },
+                            {
+                                "title": "Channel 2",
+                                "path": "http://play.sportsteam368.com/play/kbs.html?id=959996873&id2=",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            },
+                            {
+                                "title": "Channel 3",
+                                "path": "http://play.sportsteam368.com/play/gm.php?id=959996873&id2=959996873",
+                                "id": "0",
+                                "cover": null,
+                                "duration": "0",
+                                "createTime": "0",
+                                "stat": null
+                            }
+                        ],
+                        "statusLive": "_UnknownLiveStatus",
+                        "league": "Ligue 1",
+                        "liveDeviceId": "",
+                        "teamMatchInfo1": {
+                            "score": "0",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "teamMatchInfo2": {
+                            "score": "1",
+                            "crtRunsScored": "",
+                            "crtWicketsLost": "",
+                            "crtOvers": "",
+                            "crtOversExtraBalls": ""
+                        },
+                        "matchResult": "",
+                        "matchRound": "Ligue 1",
+                        "replay": [
+                            {
+                                "title": "Full Match Replay (Lee Byung-ho)",
+                                "path": "https://lacdn.aoneroom.com/replay/2025/11/08/4db5fa2cc1fc94bedc5d4c5aa7150681.mp4?Expires=1763821786&Signature=TZBozo4hrKyppapyssCgZwlTY-H3CAL2VTLx35hLhKvFwP4jv7ENSKUh1h~13fZP5WqpQVikr99cSp-DajdZkRono15HsVezJHp9qLVIz8B-uGMiGm~wloidsfy2MY6Wl31WiVKszEJW3R6L3HJWERx23mwRZovYy96CZgqFuqvKAjIP0ALba6yPgVMZw6kqU65TR4AhpA7FF5a8xYzT035OrJFjtlQUvNy3Ij48JjxiaLSCLFXHxR6teZ1QaIqg8fGOuDtLRLmsNzHHiairvFuslFK2pJgLQq~V2U63cWQ9XlvDL7ZyHb~Fz3d0FjrLLZA5BDxL7xARqBLoPqoc9A__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                                "id": "1737111499920802056",
+                                "cover": {
+                                    "url": "https://pbcdn.aoneroom.com/image/2025/11/08/2300b191a2c82a755eff9c260bf350bc.jpg",
+                                    "id": "4025503060578521384"
+                                },
+                                "duration": "0",
+                                "createTime": "1762569548000",
+                                "stat": null
+                            }
+                        ],
+                        "highlights": [
+                            {
+                                "title": "[Highlights] Unlucky in front of goal! De Smet's outside-the-box chip hits the post",
+                                "path": "https://lacdn.aoneroom.com/highlight/2025/11/08/5cfe6c2ec8204260f7f12e591a624dc2.mp4?Expires=1763821786&Signature=eKs5FDG-pDFjxtrmq6YQj0PZW6xG2cp8lwPsMlXWtnGH-sjqVDXXBoEbRrUoemNRnZWwqRgKtvjEATL0hjGDlpsMa-y~6VodZ8ulOSTy6Utk4bcP3yL2eyrU6JIHoQK-h1KjYHGAfEb4I4zmMMFPRvZYPmok0Msn~madD7G5YpWfKMTbRoaWhTXECVW1W6ZVLD9EA0DarFHvFqBUR7a-kyDlOsnBfOvs8pVYXvUW53LsNX8SXqYmxe7PbD2j3XQgp7T~8D7gY~oiFXx57sVP9p0eiMrwuNNg-AiPdID8uWn0pBfa1ElByBiRpCTOpfH4JpUcINWwVlhWVfyZPDNLfw__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                                "id": "76972087281336824",
+                                "cover": {
+                                    "url": "https://pbcdn.aoneroom.com/image/2025/11/08/31a844d902f8302bb426bc43b0ba9c73.jpg",
+                                    "id": "4783233697883607336"
+                                },
+                                "duration": "60",
+                                "createTime": "1762569447000",
+                                "stat": null
+                            },
+                            {
+                                "title": "[Highlights] Paris Saint-Germain's consecutive one-touch passes in the final third, Lis' finishing shot saved by the goalkeeper's diving stop",
+                                "path": "https://lacdn.aoneroom.com/highlight/2025/11/08/b4e230623157c4361d64ed5a3db5cc61.mp4?Expires=1763821786&Signature=uz~rtnZoxKWrhjQF9ubvNT63Rert-5yiMm3OyOXAfa32DbE6DMc4y7lwhhxUGXkY83j2hqI1vwwt2ryRUhUyvrvVohVYPR89y4S7omOCWiXZHdFKzjF0PrtZwU24n1HJ5qR6g-49MsJ-67294hx6oyh68dfo~J6VYdDpu-J33kdMiIj-aTRdJeyohXcUQnEaqwHSZlWEPB7TuzxopUQOZJSRTaiBsCp2~rx6a0UFWYCC732vIZxhZfKdQDPPF9eTOfQRD9ghrJ6mQ-wJZtW9Ic8ti4t3yziNuDqH~s0ghpEU4GI-FhaQ0JKmWNP5IxPuazZbR499B5K6j~~QZupxfA__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                                "id": "2344534499662397704",
+                                "cover": {
+                                    "url": "https://pbcdn.aoneroom.com/image/2025/11/08/76bbf9cde074d0e839c586277c6056c5.jpg",
+                                    "id": "9003106548729675912"
+                                },
+                                "duration": "37",
+                                "createTime": "1762569457000",
+                                "stat": null
+                            },
+                            {
+                                "title": "[Goal] Taking the initiative away from home! Embolo beats the offside trap and calmly scores a one-on-one",
+                                "path": "https://lacdn.aoneroom.com/highlight/2025/11/08/f015bd08fec2b558c09ee93c454b9ef3.mp4?Expires=1763821786&Signature=es3L0a3ifU5cegCZu3uAJgt8pV7kENx5ZpASaG2QEwvbQtwaMCudPn18kzzCntxm2tljDblcFfRW34UEgWpzQMnout3Y3-2AiMnlO5mEBqtmYkRLJe~tjnw8oS~Y5e-Jh9~ilqg2yjIMkQhgnTIt29AzEXRoBOKUjq29WnzPCiAwLgkKgobtSqig9Je7pDEPi7MmAthjKASblu1Xf4xINPoCHWu-WNCTZSCQpV9gEJYhEdpzsigaMclVyTHDpoAnsQGKDZYqs0oeUlBb-1s6z0uyMqO2e0rp2gvKak0WkBAnWKMqoKu2TmJLj0ZFbU597ljKNSrtWw-6qQIMFCygJQ__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                                "id": "2927275662383677704",
+                                "cover": {
+                                    "url": "https://pbcdn.aoneroom.com/image/2025/11/08/0563f46db5f0b009fe9a23c648fc2562.jpg",
+                                    "id": "607921854287858872"
+                                },
+                                "duration": "75",
+                                "createTime": "1762565986000",
+                                "stat": null
+                            },
+                            {
+                                "title": "[Highlights] Otavio heads home from corner, keeper saves on the line",
+                                "path": "https://lacdn.aoneroom.com/highlight/2025/11/08/8e5060700142f690dda6ba03a94d2aa0.mp4?Expires=1763821786&Signature=kPOhmnm4bAXV13m-jh5j1Lvhgf-FEC6hjUpuwHQLQQXwHJlXbEcMgsLB-IHtrU19uHpjcQfsHVaWCuGOEZ35i90qWt-R736HgSTCVeN0E34g8TtKCPhUV5WIqfOUhXZ0ZC8-uwHwlogP9fVXfZa5t-uyc80yp8T5f0IVLACTSRE0aAaeqfRPi9wgq~DMcIFPwV5cDnKPB99S7EJDPfLY-IAzKHOL-YGx2hASAb77BzWiNlc-ShnakKk7DiFvthfXSTCAO~4Jrg3GFNdDXTuDn7IOSeHQ4Mr5L-qe7h9d79P3jWCv0x-jovH1dqxvP3BTkySncifRRwLQgOIL3ZEwzA__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                                "id": "3074117639296401912",
+                                "cover": {
+                                    "url": "https://pbcdn.aoneroom.com/image/2025/11/08/532a7cf27804a5d7ae4672b89f823b5a.jpg",
+                                    "id": "8127156421206101088"
+                                },
+                                "duration": "24",
+                                "createTime": "1762569463000",
+                                "stat": null
+                            },
+                            {
+                                "title": "[Highlights] Perfect curve!西塞's free kick saved by goalkeeper's diving effort",
+                                "path": "https://lacdn.aoneroom.com/highlight/2025/11/08/36f02b1bce5919f7fc79a8f5c7d94315.mp4?Expires=1763821786&Signature=UhxhKlC~Df7KDn0cjvNUSbQxpzp5M5OBmMfjbtZqfZBsXjd2GtXG3BESuL42Vd~1mPk8onUcdeMEEfdpnh2~Aylr8cMyjCG650xsW-VQRS6Qq5YgJATlReEt9huNtqmdiDWxx0qo4X2OXwa0SUUaWvYzDox5e44NRwWO2uhsgjva-eQq256UAILNkurU-rJ3ExANTdrFP-HjPs6M~wRLpnif9oXV7LvGAWDWNHrFQuKCXwL5xif9bETJnlVKBZeUHH6koD86ulilytohjxrZp2SDyUjr~l4BEJ2Q1DP4-zAMKrCAgBR0Qn5sO3fUzcZ8Mgq~3--QnBPazbUnrxT1Tg__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                                "id": "3256513424204923144",
+                                "cover": {
+                                    "url": "https://pbcdn.aoneroom.com/image/2025/11/08/c34f3611cbee11bb285350374cba7a02.jpg",
+                                    "id": "2508915886061420680"
+                                },
+                                "duration": "41",
+                                "createTime": "1762569452000",
+                                "stat": null
+                            },
+                            {
+                                "title": "Full Match Highlights",
+                                "path": "https://lacdn.aoneroom.com/highlight/2025/11/08/51258b8cebd0ac9c9d7b692be8939991.mp4?Expires=1763821786&Signature=HkPlQes65paWvgfzh7Ft0mKuTKm3pXbMWxFww21Numt7jLhBZsqndsuelcDyTUxUyBTLThgg8pKkrZIyhswXHpxg8jpJHNs-kJHA~E~PAF3tsOrVZx-S83sBM6VXsYh1LY8LnDs4ebmT3NBMjCrI-wwWF7LQXUzI-iMiHvEKsTcffegnF1QbskaBlIXE3~CZ~9eHGlE5alsxhz2~R5bbOU9JyHSiaPcU7jN50sHYxhuUZuN0kdp3JMTPURYRRouxfGgx5-GKurNxxkxOdX-IuU6zygvx7rQ3JG9Vb48BK1uKa1Mwrpz7c5Nz-pDMLvppOfChNqYVCaaReC7nOS9qQQ__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                                "id": "3754071023075885320",
+                                "cover": {
+                                    "url": "https://pbcdn.aoneroom.com/image/2025/11/08/0b84dff510db11bab2949a4152314136.jpg",
+                                    "id": "7307411129071292712"
+                                },
+                                "duration": "236",
+                                "createTime": "1762576676000",
+                                "stat": null
+                            }
+                        ],
+                        "extCountryCode": "",
+                        "score": 0,
+                        "liveType": "_UnLiveType",
+                        "liveRegion": "",
+                        "leagueId": "2249910986390010208",
+                        "isSub": false
+                    }
+                ],
+                "league": "Ligue 1"
+            }
+        ],
+        "extCountryCode": "ID"
+    }
+}
