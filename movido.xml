@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://www.movido.site/sitemap.xml?start=1&end=500</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.movido.site/sitemap.xml?start=501&end=1000</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.movido.site/sitemap.xml?start=1001&end=1500</loc>
+  </sitemap>
+</sitemapindex>
