@@ -1,0 +1,112 @@
+#EXTM3U
+
+#EXTINF:-1,TVRI Jatim
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+
+#EXTINF:-1,BERITA SATU
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
+
+#EXTINF:-1,BERITA SATU (Alt)
+https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
+
+#EXTINF:-1,SURAU TV
+https://surautv.siar.us/live/surautv.m3u8
+
+#EXTINF:-1,RCTI
+https://allcutv.rctiplus.id/rcti2023.m3u8
+
+#EXTINF:-1,MNC TV
+https://allcutv.rctiplus.id/mnctv2023.m3u8
+
+#EXTINF:-1,METRO TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1,METRO TV (Alt)
+http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+
+#EXTINF:-1,TV9
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
+#EXTINF:-1,BANTEN TV
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+
+#EXTINF:-1,NTV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1,NTV (Alt)
+https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
+
+#EXTINF:-1,MAGNA TV
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1,TVMU
+https://e.siar.us/live/tvmu.m3u8
+
+#EXTINF:-1,SAKTI TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+
+#EXTINF:-1,RCTV
+https://v10.siar.us/rctv/live/playlist.m3u8
+
+#EXTINF:-1,INEWS
+https://allcutv.rctiplus.id/inews2023.m3u8
+
+#EXTINF:-1,GTV
+https://allcutv.rctiplus.id/gtv2023.m3u8
+
+#EXTINF:-1,GTV (DASH)
+https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
+
+#EXTINF:-1,JTV (DASH)
+https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
+
+#EXTINF:-1,INDOSIAR
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:-1,SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:-1,RTV
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
+#EXTINF:-1,MDTV
+http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
+
+#EXTINF:-1,ELSHINTA TV
+https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
+
+#EXTINF:-1,CHANNEL JOWO
+https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
+
+#EXTINF:-1,INSPIRA TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:-1,BTV
+https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=lite&chname=BTV
+
+#EXTINF:-1,CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1,TRANS TV
+https://livestream.transtv.co.id/stream/live/ttv.m3u8
+
+#EXTINF:-1,TRANS TV (Alt)
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1,TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+
+#EXTINF:-1,MOJI
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:-1,KOMPAS TV
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+
+#EXTINF:-1,CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
+
+#EXTINF:-1,BN CHANNEL
+https://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
+
+#EXTINF:-1,TVONE
+https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
