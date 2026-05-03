@@ -32,14 +32,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" site="dens.tv" site_id="10" tvg-id="Indosiar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDH9fdJcCyHmxEtNgxnVBDricERsbs-Um-VxtGjIdM1TUDOKhg_K-jqzFGRAxjHp8TzQ6LC7UHWzeEzZSVAioAtqgeFVE0E9TM1QmcAwBU9VxxbLPnfAFl3FjpxiwZThPLn3xskcWKZ6QoyGhh3NuLWr9G7-YdJxUuEqm3a0fP2Hejdu9XNxmYrlTV3Ss/s750/Indosiar.png" group-title="National",Indosiarᴰᴳ
 http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh10qSp_iVXqxeOxA7GKSsy0yxU1JpPqgR91Y7NgqO_Uai21p5cO4QgnZxJV_6xUyL9YhRFWo96GZMubxpm4S9ucu4YMm-pqSAG6-2v8bh-vxwvDVGFyDVcwe8aqjXkL9yu2XSbefdn3Lr2nEuvamIvaLz10aGDbYQmUqqU0gIJF64ncQz9HsJ0BmttI18/s700/INDOSIARSports.png" group-title="National",Indosiarˢᵖᵒʳᵗˢ
-http://filex.tv:8080//live/shafiq02/1234/302264.ts
-
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIDDUbXYzsmK5N5jfjNJ0BRmtvkPsoFRRYxA2UUgY06UzoMwoNDlAvMeEsadK96Hq8Qjnv9DW3WzRJOdm7oQDyGhPF-ewLA6gMR1-T2X9SjJgNb4yAz11Ghwn2eGqVWR98N9Bh7uTml4wTiZ9eCEnSO1ggA0xM7zXx8jftWJ_nh-OeUpl_Xj9P0cCJn5g/s700/MNCSportsTV.jpg",MNC TV Sports
@@ -52,9 +44,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:-1 group-title="National" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMurczA8o996U3gZLOlfETQHJ263zURxPm-mZ3VImZDlXRj4MQZ7vF4MZViN1ER1QI-uKvFOH9M5jQWDlxe0VTBzyqRzpr9qI4h8-EQWqw5glcxrszyFV3SSWuHFHv8wrFTJf68YtCrCce7o-luRDvS6PXW92b_mD4WMvbImEP23wci-MpniFpp6xKKFc/s750/MNCSports.png", MNC TVˢᵖᵒʳᵗˢ
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505855.ts
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnSiKKFOq9siCSRZemmlJnDWHa7ujO6cqvPq_lDhcn9kB3KXhNqnHD9R5RDBSggqW6raNpsG6jljzoeot1c3Fv0LQy_NHTyaZCENOxpbhWqPntFCrjnCxQECjCzhaxOzf4NSQkInENKJxyvzuXVRrgCGhaUQvxyPgWB1cHW-3ng6sOp5MG3W4jEKq35JY/s700/RCTISportsTV.jpg" group-title="Live Event",RCTI Sports
-http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165918.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
@@ -137,12 +126,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpc9fbG79uZOmieX7ri7X4248xNtPaUM7sTvUQMWJ3tEIURjM6BJFNISBEfqKHthvIWtNbenBt5SkDfap-a09-pzXm5P5v_KvzmEAlwTcJcj-Stko4lvWXE3WwdFV6hbLTwyV3Vrcb5HU70OnttE72yeqejhC-I161jymx9uSXnutX768UuHfLNzaLenk/s700/ANTV.png" group-title="National",ANTVᴰᴳ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-ANTV/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja8N1jALWIsKlNSfVr0Q729xo08fWZymhbHxrgO0Dw7EGo4BsfKkseR9_r5ERMFRbcm0vOZB7dCyiP5VBPkPM873t6bPS_TegZ9ugF67_tX0OjaEu3OVe9EOFFeSevJjuz6ofGYtdVrp2eHOcMeBIyAGsJJI2E1WjwZpUqeEheF8M5cOoqPhkU0DZi6qQ/s700/MetroTV.png" group-title="National",Metro TV
-https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mediampd/MetroTVHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
